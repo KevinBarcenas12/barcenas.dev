@@ -1,21 +1,21 @@
 {
-  "short_name": "Kevin Barcenas' Web",
-  "name": "Kevin Barcenas' Personal Website",
+  "short_name": "Kevin's Portfolio",
+  "name": "Kevin's personal portfolio",
   "icons": [
     {
       "src": "favicon.ico",
-      "sizes": "128x128 64x64 32x32 24x24 16x16",
+      "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "assets/logo195.png",
+      "src": "img/logo192.png",
       "type": "image/png",
-      "sizes": "195x195"
+      "sizes": "192x192"
     },
     {
-      "src": "assets/logo582.png",
+      "src": "img/logo512.png",
       "type": "image/png",
-      "sizes": "582x582"
+      "sizes": "512x512"
     }
   ],
   "start_url": ".",
